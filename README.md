@@ -8,7 +8,7 @@
 <li>Left Bumper = Intake In </li>
 <li>Right Bumper = Intake Out </li>
 </ul>
-<h3> Shooter </h3>
+<h3> Shooter: </h3>
 <ul>
 <li>Joystick(0) = Turn Turret</li>
 <li>Button A = Move rev motor forward </li>
