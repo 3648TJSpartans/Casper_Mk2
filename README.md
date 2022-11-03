@@ -2,14 +2,16 @@
  Code for Casper
 <h1> Controls </h1>
 <h2>Driver:</h2>
-Joystick(1) = Drive forward and backward
-Joystick(4) = Turn left and right
-Left Bumper = Intake In 
-Right Bumper = Intake Out 
-
+<ul>
+<li>Joystick(1) = Drive forward and backward</li>
+<li>Joystick(4) = Turn left and right</li>
+<li>Left Bumper = Intake In </li>
+<li>Right Bumper = Intake Out </li>
+</ul>
 <h3> Shooter </h3>
-Joystick(0) = Turn Turret
-Button A = Move rev motor forward 
-Button B = Move rev motor backward
-Right Trigger = Shooter motor
-Joystick(4) = Move Hopper motor 
+<ul>
+<li>Joystick(0) = Turn Turret</li>
+<li>Button A = Move rev motor forward </li>
+<li>Button B = Move rev motor backward</li>
+<li>Right Trigger = Shooter motor</li>
+<li>Joystick(4) = Move Hopper motor </li>
